@@ -1,0 +1,17 @@
+
+Espacio usado: 0x0A00000-0x0B67ACF
+
+RAM: 0x0203E000-- en adelante (varia dependiendo de la midi en uso)
+
+Cambios
+-Se inserto el parche de todos los instrumentos
+-Se inserto rutina de reduccion de ruido blanco (mejora de audio)
+-Se deshabilito el menu ayuda (Boton L y R) ya que por alguna razon causa bug con la rutina
+-Se aumento el numero de direct tracks a 12
+-Se cambio la opcion de audio a de "mono" a "stereo" por defecto
+-Se reemplazaron los temas de la title screen y de Pueblo Paleta usando los mismos offset (sin romper nada)
+
+------
+Creditos:
+Ipatix-rutina de reduccion de ruido blanco
+Alisa180- parche 128 instrumentos

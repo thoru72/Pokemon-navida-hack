@@ -15,3 +15,7 @@ Cambios
 Creditos:
 Ipatix-rutina de reduccion de ruido blanco
 Alisa180- parche 128 instrumentos
+
+
+28-09-21
+-Se reemplazo el tema duplicado de Pueblo Paleta

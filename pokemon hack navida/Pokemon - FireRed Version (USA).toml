@@ -511,11 +511,6 @@ Address = 0x25EF0C
 Format = '''`egg`'''
 
 [[NamedAnchors]]
-Name = '''data.pokemon.type.chart'''
-Address = 0x24F050
-Format = '''[attack.data.pokemon.type.names defend.data.pokemon.type.names strength.]!FFFF00'''
-
-[[NamedAnchors]]
 Name = '''data.pokemon.natures.stats'''
 Address = 0x252B48
 Format = '''[attack.|z defense.|z speed.|z spAttack.|z spDefense.|z]data.pokemon.natures.names'''
@@ -2004,6 +1999,11 @@ Format = '''^[type.|h key. length. pan_sweep. p<> attack. decay. sustain. releas
 Name = '''sound.pokemon.cry.hoennconversion'''
 Address = 0x2539D4
 Format = '''[index:]data.pokemon.names-277'''
+
+[[NamedAnchors]]
+Name = '''data.pokemon.type.chart'''
+Address = 0x24F050
+Format = '''[attack.data.pokemon.type.names defend.data.pokemon.type.names strength.]!FFFF00'''
 
 #################################
 #################################

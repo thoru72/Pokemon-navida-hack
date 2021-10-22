@@ -1,4 +1,2 @@
 # Pokemon-navida-hack
-hack para navidad asi de easy
-nos vamos a divertir haciendo un hack para navidad 
-somos factor hex
+Hack para navidad así de easy. Nos vamos a divertir haciendo un hack para navidad.  Somos Factor Hex
